@@ -1,0 +1,19 @@
+{
+  "players": [
+    {
+      "id": 10,
+      "name": "Sachin Tendulkar",
+      "position": "Opener"
+    },
+    {
+      "id": 11,
+      "name": "Sachin Tendulkar",
+      "position": "batsman"
+    },
+    {
+      "id": 1,
+      "name": "Aakash",
+      "position": "Developer"
+    }
+  ]
+}
